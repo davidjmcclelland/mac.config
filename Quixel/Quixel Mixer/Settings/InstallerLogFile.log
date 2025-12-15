@@ -1,0 +1,67 @@
+Log started 02/03/2025 at 09:38:18
+Preferred installation mode : osx
+Trying to init installer in mode osx
+Mode osx successfully initialized
+0 KB / 5897227 KB downloaded. 
+Connecting to remote server
+Connecting to remote server
+Unable to download component Quixel Mixer 2022.1.1
+Automatically retrying download
+0 KB / 5897227 KB downloaded. 
+Connecting to remote server
+Connecting to remote server
+Unable to download component Quixel Mixer 2022.1.1
+Component mixer deselected due to download error
+0 KB / 5643802 KB downloaded. 
+0 KB / 5643802 KB downloaded. 
+Connecting to remote server
+Connecting to remote server
+Unable to download component Sample Mixes
+Automatically retrying download
+0 KB / 5643802 KB downloaded. 
+Connecting to remote server
+Connecting to remote server
+Unable to download component Sample Mixes
+Component sampleprojects deselected due to download error
+0 KB / 4584306 KB downloaded. 
+0 KB / 4584306 KB downloaded. 
+Connecting to remote server
+Connecting to remote server
+Unable to download component Smart Materials Pack 1
+Automatically retrying download
+0 KB / 4584306 KB downloaded. 
+Connecting to remote server
+Connecting to remote server
+Unable to download component Smart Materials Pack 1
+Component smartmaterials deselected due to download error
+0 KB / 1344227 KB downloaded. 
+0 KB / 1344227 KB downloaded. 
+Connecting to remote server
+Connecting to remote server
+Unable to download component Smart Materials Pack 7
+Automatically retrying download
+0 KB / 1344227 KB downloaded. 
+Connecting to remote server
+Connecting to remote server
+Unable to download component Smart Materials Pack 7
+Component smartmaterialpack7 deselected due to download error
+250 KB / 250 KB downloaded. 
+Preparing to Install
+Preparing to Install
+Creating Uninstaller
+Creating uninstaller 25%
+Creating uninstaller 50%
+Creating uninstaller 75%
+Creating uninstaller 100%
+Installation completed
+Log finished 02/03/2025 at 09:40:14
+Executing /Applications/QuixelMixer-2022.1.1/Quixel Mixer.app/Contents/MacOS/Quixel Mixer &
+Script exit code: 0
+
+Script output:
+ 
+
+Script stderr:
+ 
+
+Exiting with code 0
